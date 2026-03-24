@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Apophenia",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-03-24T04:46:29.341099Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Amber Arcades",
+      "has_synced": false,
+      "path": "select/01_Apophenia_Amber_Arcades.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/02_Apophenia_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Hannes Grossmann",
+      "has_synced": false,
+      "path": "select/03_Apophenia_Hannes_Grossmann.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Sunpocrisy",
+      "has_synced": false,
+      "path": "select/04_Apophenia_Sunpocrisy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Inanimate Existence",
+      "has_synced": false,
+      "path": "select/05_Apophenia_Inanimate_Existence.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Kirlian Camera",
+      "has_synced": false,
+      "path": "select/06_Apophenia_Kirlian_Camera.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Seven",
+      "has_synced": true,
+      "path": "select/07_Apophenia_Seven.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/08_Apophenia_CLAN_QUEEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "Mortal Vision",
+      "has_synced": false,
+      "path": "select/09_Apophenia_Mortal_Vision.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Apophenia",
+      "artist": "kurousagi",
+      "has_synced": false,
+      "path": "select/10_Apophenia_kurousagi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Josephine (feat. Apophenia)",
+      "artist": "HYPAUX\u0000outset island\u0000Apophenia",
+      "has_synced": true,
+      "path": "select/11_Josephine_(feat._Apophenia)_HYPAUX\u0000outset_island\u0000Apophenia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Apophenia",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_Apophenia_CLAN_QUEEN.txt"
+    }
+  ]
+}
